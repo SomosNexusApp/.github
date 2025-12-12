@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="assets/logo.png" alt="Nexus Logo" width="120" height="120">
   <h1>Nexus</h1>
   <p><strong>Unifica tu búsqueda. Descubre el valor.</strong></p>
   
@@ -17,7 +16,7 @@
 ---
 
 <p align="center">
-  <img src="assets/banner.png" alt="Nexus Banner" width="100%" style="border-radius: 10px;">
+  <img src="../assets/banner.png" alt="Nexus Banner" width="100%" style="border-radius: 10px;">
 </p>
 
 ## 🚀 Sobre el Proyecto
