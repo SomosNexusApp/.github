@@ -6,7 +6,7 @@
 
 <img src="../assets/logo.png" alt="Nexus Logo" width="200"/>
 
-# Nexus App — Web Informativa
+# Nexus App — GitHub Oficial
 
 **Portal de presentación, documentación técnica y marketing de Nexus**, la plataforma unificada de marketplace de segunda mano, chollometro comunitario y publicidad B2B para empresas.
 
