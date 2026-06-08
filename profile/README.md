@@ -10,16 +10,8 @@
 
 **Portal de presentación, documentación técnica y marketing de Nexus**, la plataforma unificada de marketplace de segunda mano, chollometro comunitario y publicidad B2B para empresas.
 
-[![Astro](https://img.shields.io/badge/Astro-5.x-FF5D01?style=flat-square&logo=astro&logoColor=white)](https://astro.build/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-5.x-3178C6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![Vercel](https://img.shields.io/badge/Deployed%20on-Vercel-black?style=flat-square&logo=vercel)](https://vercel.com/)
-[![License](https://img.shields.io/badge/Propiedad-Ecentia-9d5ae5?style=flat-square)](mailto:somosnexusapp@gmail.com)
-
 *Proyecto Final de Grado Superior — DAM | IES Francisco Rodríguez Marín, Osuna (Sevilla)*
 
----
-
-[🚀 Demo en vivo](#) · [📖 Documentación](#-documentación-técnica) · [🐛 Reportar un bug](mailto:somosnexusapp@gmail.com) · [💬 Contacto](mailto:somosnexusapp@gmail.com)
 
 </div>
 
@@ -176,7 +168,7 @@ nexus-web-about/
 
 ```bash
 # 1. Clonar el repositorio
-git clone https://github.com/ecentia/nexus-web-about.git
+git clone https://github.com/SomosNexusApp/nexus-web-about.git
 cd nexus-web-about
 
 # 2. Instalar dependencias
@@ -355,16 +347,15 @@ CEO & Desarrollador<br/>
 | **Proyecto** | Trabajo de Fin de Grado (TFG) |
 | **Ciclo** | Grado Superior en Desarrollo de Aplicaciones Multiplataforma (DAM) |
 | **Centro** | IES Francisco Rodríguez Marín — Osuna, Sevilla |
-| **Empresa ficticia** | Ecentia |
 | **Período** | Noviembre 2025 – Mayo 2026 |
 
 ---
 
 ## 📜 Licencia
 
-© 2026 **Ecentia**. Todos los derechos reservados.
+© 2026 **Nexus App**. Todos los derechos reservados.
 
-Este proyecto es propiedad exclusiva de Ecentia y ha sido desarrollado con fines académicos para el IES Francisco Rodríguez Marín. Queda prohibida la reproducción, distribución o explotación comercial sin autorización expresa por escrito.
+Este proyecto ha sido desarrollado con fines académicos para el IES Francisco Rodríguez Marín. Queda prohibida la reproducción, distribución o explotación comercial sin autorización expresa por escrito.
 
 Para consultas: [somosnexusapp@gmail.com](mailto:somosnexusapp@gmail.com)
 
@@ -372,6 +363,6 @@ Para consultas: [somosnexusapp@gmail.com](mailto:somosnexusapp@gmail.com)
 
 <div align="center">
 
-Hecho con ❤️ en Osuna, Sevilla · Ecentia © 2026
+Hecho con ❤️ en Osuna, Sevilla · Nexus App © 2026
 
 </div>
