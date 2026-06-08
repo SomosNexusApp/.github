@@ -33,9 +33,7 @@
 
 ## 🌐 Sobre el proyecto
 
-Este repositorio contiene la **web informativa y de marketing de Nexus** (`nexus-web-about`), construida con **Astro**. Se trata de uno de los cuatro submódulos que componen el ecosistema completo de la plataforma.
-
-Su función principal es:
+La página informativa (about.nexus-app.es) tiene las siguientes funciones:
 
 - Presentar la propuesta de valor de Nexus al público general.
 - Alojar la **documentación técnica oficial** del proyecto de fin de grado (memoria, requisitos, diseño, pruebas, etc.).
@@ -57,7 +55,7 @@ Nexus está compuesto por cuatro submódulos independientes que comparten un ún
 | `nexus-backend` | API REST (48 endpoints) + WebSocket STOMP — Spring Boot 3 (Java 17) | Render (Docker) |
 | `nexus-angular-app` | App de usuario — Angular 21 + Ionic 8 + Capacitor 8 | Vercel |
 | `nexus-admin-web-app` | Panel de administración — Angular 21 | Vercel (subdominio) |
-| **`nexus-web-about`** ← **(este repo)** | Web informativa y docs — Astro | Vercel |
+| `nexus-web-about` | Web informativa y docs — Astro | Vercel |
 
 ```
                     ┌──────────────────────────────────┐
@@ -70,7 +68,7 @@ Nexus está compuesto por cuatro submódulos independientes que comparten un ún
           │                    │                             │
  ┌────────▼───────┐  ┌─────────▼──────────┐  ┌─────────────▼──────┐
  │ nexus-angular  │  │  nexus-admin-web   │  │  nexus-web-about   │
- │ Angular 21     │  │  Angular 21        │  │  Astro (este repo) │
+ │ Angular 21     │  │  Angular 21        │  │  Astro 
  │ Ionic 8        │  │  Panel Admin       │  │  Web informativa   │
  │ Capacitor → APK│  │  Subdominio        │  │  Docs + Blog       │
  └────────────────┘  └────────────────────┘  └────────────────────┘
@@ -80,7 +78,7 @@ Nexus está compuesto por cuatro submódulos independientes que comparten un ún
 
 ## 🛠 Stack tecnológico
 
-### Web informativa (este repo)
+### Web informativa 
 
 | Tecnología | Versión | Uso |
 |---|---|---|
